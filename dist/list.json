@@ -1,0 +1,114 @@
+[
+    {
+        "id" : 1,
+        "name" : "Story book",
+        "disc" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Auter",
+        "price": 0,
+        "category" : "free",
+        "image" : "https://img.freepik.com/free-photo/stack-books-education-day_23-2150980065.jpg?t=st=1720297757~exp=1720301357~hmac=7b1d760db2999ca0c02ac5331cf2dac6030c9b61c3f59a5df606227f28fc6c22&w=826"
+    },
+    {
+        "id" : 2,
+        "name" : "comedy book",
+        "disc" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Auter",
+        "price": 20,
+        "category" : "paid",
+        "image" : "https://img.freepik.com/free-photo/stack-books-education-day_23-2150980065.jpg?t=st=1720297757~exp=1720301357~hmac=7b1d760db2999ca0c02ac5331cf2dac6030c9b61c3f59a5df606227f28fc6c22&w=826"
+    },
+    {
+        "id" : 3,
+        "name" : "jungle book",
+        "disc" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Auter",
+        "price": 0,
+        "category" : "free",
+        "image" : "https://img.freepik.com/free-photo/stack-books-education-day_23-2150980065.jpg?t=st=1720297757~exp=1720301357~hmac=7b1d760db2999ca0c02ac5331cf2dac6030c9b61c3f59a5df606227f28fc6c22&w=826"
+    },
+    {
+        "id" : 4,
+        "name" : "sports book",
+        "disc" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Auter",
+        "price": 30,
+        "category" : "paid",
+        "image" : "https://img.freepik.com/free-photo/stack-books-education-day_23-2150980065.jpg?t=st=1720297757~exp=1720301357~hmac=7b1d760db2999ca0c02ac5331cf2dac6030c9b61c3f59a5df606227f28fc6c22&w=826"
+    },
+    {
+        "id" : 5,
+        "name" : "circket book",
+        "disc" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Auter",
+        "price": 0,
+        "category" : "free",
+        "image" : "https://img.freepik.com/free-photo/stack-books-education-day_23-2150980065.jpg?t=st=1720297757~exp=1720301357~hmac=7b1d760db2999ca0c02ac5331cf2dac6030c9b61c3f59a5df606227f28fc6c22&w=826"
+    },
+    {
+        "id" : 6,
+        "name" : "sweets book",
+        "disc" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Auter",
+        "price": 0,
+        "category" : "free",
+        "image" : "https://img.freepik.com/free-photo/stack-books-education-day_23-2150980065.jpg?t=st=1720297757~exp=1720301357~hmac=7b1d760db2999ca0c02ac5331cf2dac6030c9b61c3f59a5df606227f28fc6c22&w=826"
+    },
+    {
+        "id" : 7,
+        "name" : "special book",
+        "disc" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Auter",
+        "price": 0,
+        "category" : "free",
+        "image" : "https://img.freepik.com/free-photo/stack-books-education-day_23-2150980065.jpg?t=st=1720297757~exp=1720301357~hmac=7b1d760db2999ca0c02ac5331cf2dac6030c9b61c3f59a5df606227f28fc6c22&w=826"
+    },
+    {
+        "id" : 8,
+        "name" : "love book",
+        "disc" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Auter",
+        "price": 40,
+        "category" : "paid",
+        "image" : "https://img.freepik.com/free-photo/stack-books-education-day_23-2150980065.jpg?t=st=1720297757~exp=1720301357~hmac=7b1d760db2999ca0c02ac5331cf2dac6030c9b61c3f59a5df606227f28fc6c22&w=826"
+    },
+    {
+        "id" : 9,
+        "name" : "heart book",
+        "disc" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Auter",
+        "price": 0,
+        "category" : "free",
+        "image" : "https://img.freepik.com/free-photo/stack-books-education-day_23-2150980065.jpg?t=st=1720297757~exp=1720301357~hmac=7b1d760db2999ca0c02ac5331cf2dac6030c9b61c3f59a5df606227f28fc6c22&w=826"
+    },
+    {
+        "id" : 10,
+        "name" : "world book",
+        "disc" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Auter",
+        "price": 0,
+        "category" : "free",
+        "image" : "https://img.freepik.com/free-photo/stack-books-education-day_23-2150980065.jpg?t=st=1720297757~exp=1720301357~hmac=7b1d760db2999ca0c02ac5331cf2dac6030c9b61c3f59a5df606227f28fc6c22&w=826"
+    },
+    {
+        "id" : 11,
+        "name" : "merriage book",
+        "disc" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Auter",
+        "price": 50,
+        "category" : "paid",
+        "image" : "https://img.freepik.com/free-photo/stack-books-education-day_23-2150980065.jpg?t=st=1720297757~exp=1720301357~hmac=7b1d760db2999ca0c02ac5331cf2dac6030c9b61c3f59a5df606227f28fc6c22&w=826"
+    },
+    {
+        "id" : 12,
+        "name" : "HTML book",
+        "disc" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Auter",
+        "price": 0,
+        "category" : "free",
+        "image" : "https://img.freepik.com/free-photo/stack-books-education-day_23-2150980065.jpg?t=st=1720297757~exp=1720301357~hmac=7b1d760db2999ca0c02ac5331cf2dac6030c9b61c3f59a5df606227f28fc6c22&w=826"
+    },
+    {
+        "id" : 13,
+        "name" : "CSS book",
+        "disc" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Auter",
+        "price": 50,
+        "category" : "paid",
+        "image" : "https://img.freepik.com/free-photo/stack-books-education-day_23-2150980065.jpg?t=st=1720297757~exp=1720301357~hmac=7b1d760db2999ca0c02ac5331cf2dac6030c9b61c3f59a5df606227f28fc6c22&w=826"
+    },
+    {
+        "id" : 13,
+        "name" : "javascript book",
+        "disc" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Auter",
+        "price": 0,
+        "category" : "free",
+        "image" : "https://img.freepik.com/free-photo/stack-books-education-day_23-2150980065.jpg?t=st=1720297757~exp=1720301357~hmac=7b1d760db2999ca0c02ac5331cf2dac6030c9b61c3f59a5df606227f28fc6c22&w=826"
+    }
+]

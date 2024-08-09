@@ -13,7 +13,6 @@ const URI = process.env.MangoURI;
 
 // conect to Mangodb
 try{
-
       mongoose.connect(URI, {
         useNewUrlparser : true,
         useUnifiedTopology : true
@@ -27,8 +26,7 @@ try{
 
 app.use("/book", bookroute)
 app.use("/user", userroute)
-
-
+app.use(express.static('dist'))
 app.listen(PORT, () => {
-  console.log(`Server is listening on port ${PORT}`)
+  console.log(`http://localhost:${PORT}`)
 })

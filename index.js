@@ -26,7 +26,7 @@ try{
 
 app.use("/book", bookroute)
 app.use("/user", userroute)
-app.use(express.static('dist'))
+
 app.listen(PORT, () => {
   console.log(`http://localhost:${PORT}`)
 })
